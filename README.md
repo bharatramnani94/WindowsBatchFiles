@@ -5,19 +5,14 @@ A collection of useful batch files for Windows PC, that intend to simplify day t
 
 ## Commands
 
-* __desktop__
-    Opens Desktop folder
-* __documents__
-    Opens Documents folder
-* __music__
-    Opens Music folder
-* __pictures__
-    Opens Pictures folder
-* __server__
-    Python (2.x) Server `Port number as optional argument`
-* __server3__
-    Python (3.x) Server `Port number as optional argument`
-
+| Command | Description |
+|:--------|:------------|
+| desktop | Opens Desktop folder |
+| documents | Opens Documents folder |
+| music | Opens Music folder |
+| pictures | Opens Pictures folder |
+| server | Python (2.x) Server `Port number as optional argument` |
+| server3 | Python (3.x) Server `Port number as optional argument` |
 
 
 __Bharat Ramnani__
