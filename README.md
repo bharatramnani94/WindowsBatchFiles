@@ -8,6 +8,8 @@ A collection of useful batch files for Windows PC, that intend to simplify day t
 * __music.bat__ Opens Music folder
 * __pictures.bat__ Opens Pictures folder
 * __server.bat__ Python (2.x) Server `Port number as optional argument`
+* __server3.bat__ Python (3.x) Server `Port number as optional argument`
+
 
 
 __Bharat Ramnani__
