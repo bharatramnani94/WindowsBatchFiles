@@ -7,12 +7,12 @@ A collection of useful batch files for Windows PC, that intend to simplify day t
 
 | Command | Description |
 |:--------|:------------|
-| desktop | Opens Desktop folder |
-| documents | Opens Documents folder |
-| music | Opens Music folder |
-| pictures | Opens Pictures folder |
-| server | Python (2.x) Server `Port number as optional argument` |
-| server3 | Python (3.x) Server `Port number as optional argument` |
+| **desktop** | Opens Desktop folder |
+| **documents** | Opens Documents folder |
+| **music** | Opens Music folder |
+| **pictures** | Opens Pictures folder |
+| **server** | Python (2.x) Server `Port number as optional argument` |
+| **server3** | Python (3.x) Server `Port number as optional argument` |
 
 
 __Bharat Ramnani__
